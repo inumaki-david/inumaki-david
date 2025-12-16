@@ -6,12 +6,11 @@ Bem-vindo ao meu perfil do GitHub 🚀
 ## 👨‍💻 Sobre mim 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💡 Apaixonado por **anime e cultura geek**, **música** e **jogos**
-- ⚡ Curioso por como as coisas funcionam “por baixo dos panos” e sempre buscando aprender algo novo
 - 🥋 Fora da tecnologia, sou lutador e competidor de **jiu-jitsu**
 
 --- 
 
-## 🛠️ Tecnologias & Ferramentas 
+## 🛠️ Linguagens e Tecnologias 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
