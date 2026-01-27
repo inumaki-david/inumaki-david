@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil do GitHub 🚀
 --- 
 
 ## 🔭 Atualmente interessado em 
-- Desenvolvimento **Front-end** e **Database Design**
+- Desenvolvimento **Front-end**, **Mobile** e **Database Design**
 
 --- 
 
